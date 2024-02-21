@@ -1,0 +1,51 @@
+.card {
+    border: 2px solod black;
+    height: 80vh;
+    width: 300px;
+    background-color: gray;
+    border-radius: 7px;
+}
+
+.img {
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+
+.capsule span {
+    border: 1px solid black;
+    padding: 0 10px;
+    border-radius: 4px;
+    background-color:  rgba(10, 139, 139, 0.322)
+
+
+}
+
+.capsule {
+    padding: 0 75px;
+    margin: 0 2px;
+}
+
+.content h1{
+    padding: 0 15px;
+}
+
+.container{
+   border: 1px solid black;
+    border-radius: 4px;
+    height:160px;
+    width: 280px;
+    margin:10px
+}
+.container p{
+    padding:0 10px;
+    
+}
+.container p span{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:0 10px;
+    margin: 0 70px;
+    background-color:  rgba(10, 139, 139, 0.322)
+    
+
+}
